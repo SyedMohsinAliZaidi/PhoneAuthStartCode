@@ -5,7 +5,7 @@ This is the starter code for the Firebase Phone Authentucation in a Non-Expo Rea
 To clone this repository, run
 
 ```bash
-https://github.com/zolomohan/rn-firebase-phone-auth-starter.git
+https://github.com/SyedMohsinAliZaidi/PhoneAuthStartCode.git
 ```
 
 To install the dependencies, run
